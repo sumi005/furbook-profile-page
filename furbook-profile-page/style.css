@@ -3,7 +3,7 @@ body{
 }
 
 .row {
-  margin: 2rem
+  margin: 2rem;
 }
 
 /* start: picture-box css */
@@ -18,7 +18,7 @@ body{
 .pic {
   width:100%;
   border-radius: 100%;
-  margin-bottom: 1rem
+  margin-bottom: 1rem;
 }
 
 /* end: picture-box css */
@@ -26,20 +26,20 @@ body{
 .about-box{
   background-color: rgb(248,248,248);
   padding: 1rem;
-  border-radius: 10px
+  border-radius: 10px;
 }
 
 .heading{
   text-align: center;
   font-weight:700;
-  font-size:2rem
+  font-size:2rem;
 }
 
 .list-group-item{
-  font-weight: 700;
-  padding:1rem
+    font-weight: 700;
+    padding:1rem;
 }
 
 input {
-  border-radius: 10px
+  border-radius: 10px;
 }
